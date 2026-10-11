@@ -26,3 +26,4 @@ A custom-designed, open-source DIY handheld retro gaming console powered by a Si
 2. **PCB / Hardware:** Use the schematic and layout files in `/pcb` for manufacturing or wiring reference.
 3. **Assembly:** 3D print the enclosure files and assemble the hardware layer by layer following standard electronics safety practices.
 
+<img width="836" height="451" alt="image" src="https://github.com/user-attachments/assets/bd5eb4a5-5da9-48ae-b570-60409a34dc69" />
