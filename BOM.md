@@ -25,9 +25,8 @@
 | Flexible LED filament 24V 1200mm green | — | 1 | $14.57 | $14.57 | — |
 | Breadboard 400 tie points | Prototyping only | 1 | $0.40 | $0.40 | — |
 | Pin headers for Pro Micro | Only if the Pro Micro arrives unsoldered | 1 | $0.31 | $0.31 | — |
-| PAM8403 amplifier module and 8 ohm speaker | Screen has no speaker | 1 | $1.24 | $1.24 | — |
-| **Parts subtotal** | — | — | — | **$107.21** | — |
+| **Parts subtotal** | — | — | — | **$105.97** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$107.21** | — |
+| **Total** | — | — | — | **$105.97** | — |
 
-**$7.21 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$5.97 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
