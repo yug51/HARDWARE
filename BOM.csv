@@ -1,26 +1,17 @@
-
-,T3rminal Bill Of Materials
-"The products below may need to be modded to ﬁt inside the case, and may take time and risk",
-"damaging the product, anything colored in red will need to be modded.",
-"There will be links to each product, one for amazon, and one for the best alternative to ﬁnd the",
-product,
-Electronics,
--,Raspberrry Pi 4: Amazon | Pihut
--,Mini Keyboard: Amazon | Aliexpress
--,Pisugar S plus: Amazon | Tindie
--,18650 battery case (subject to change): Amazon | aliexpress
--,18650 battery (subject to change): Amazon | aliexpress
--,Btt Pitft 50: Amazon | aliexpress
--,Dsi ribbon cable Amazon | aliexpress
--,Rocker switch Amazon | aliexpress
--,Usb 3 connectors (for modding raspi): Amazon | Digikey ½ | Digikey 2/2
--,Jumper wire: Amazon | aliexpress
--,Usb c extension connectors (for diy cable): Amazon | aliexpress
-Other Tools,
--,Soldering iron: Amazon
--,Glue gun: Amazon
--,Screwdriver: Amazon
--,m3/m2.5 bolts: Amazon | aliexpress
--,3d Printer (my recommendation): bambu labs
--,3d printer ﬁlament: Amazon
--,superglue : amazon
+Part,Quantity,Description,Notes
+Raspberry Pi 4 Model B (4GB),1,Single board computer (CPU),Models 1-5 share the same footprint
+Arduino Pro Micro (ATmega32u4),1,Microcontroller emulating a USB gamepad,Arduino Micro also works (more digital pins)
+5-inch 800x480 IPS HDMI screen with speaker,1,Display and audio,Elecrow RC050S; modification required
+PiSugar 2 Pro with 5000mAh battery,1,UPS and battery power supply,Convert from HUB to HAT; max battery 56x66x10mm
+Soft tactile 8mm push buttons,10,"D-pad, ABXY, Start, Select",Any standard tactile button also works
+90-degree angled tactile push buttons,4,Shoulders and triggers (L1 R1 L2 R2),
+Analog joystick module,2,Analog thumbsticks,Kodiak variant only
+MicroSD card,1,Storage for RetroPie,Must be on the RPi SD card compatibility list
+Breadboard,1,Prototyping,
+Male-to-female jumper wires,1,Prototyping,1 pack
+40-pin female GPIO header (2x20),1,HAT conversion for PiSugar,Solderless header optional
+M2.5 screws 10mm,8,Internal component mounting,
+M2.5 screws 16mm,2,Enclosure (top),
+M2.5 screws 20mm,2,Enclosure (bottom),
+M2.5 male-to-female standoff spacers 10mm,2,Raspberry Pi and PiSugar mounting,
+Metal heatsink,1,Passive cooling,Must fit under the HAT
