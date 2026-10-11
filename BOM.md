@@ -21,10 +21,9 @@
 | Professional 24-in-1 screwdriver tool kit | Tool; useful for small screws | 1 | $2.60 | $2.60 | — |
 | PS2 joystick module breakout sensor | Not used in Grizzly build; not the right shape for Kodiak sticks | 1 | $0.48 | $0.48 | — |
 | Tactile 4-pin push button switch 12x12x7.3mm (pack of 5) | — | 1 | $0.58 | $0.58 | — |
-| 6V N20 600 RPM miniature gear motor | — | 1 | $2.26 | $2.26 | — |
 | Flexible LED filament 24V 1200mm green | — | 1 | $14.57 | $14.57 | — |
-| **Parts subtotal** | — | — | — | **$105.26** | — |
+| **Parts subtotal** | — | — | — | **$103.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$105.26** | — |
+| **Total** | — | — | — | **$103.00** | — |
 
-**$5.26 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
