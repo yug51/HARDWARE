@@ -1,14 +1,15 @@
-Part,Quantity,Unit Price (USD),Line Total (USD),Notes
-Raspberry Pi Zero 2 W,1,21.00,21.00,Budget CPU replacing Pi 4 (Pi 4 4GB now ~$75+); needs micro-HDMI adapter and some case tinkering
-Mini-HDMI to HDMI adapter or short cable,1,3.00,3.00,Zero 2 W has mini-HDMI output
-Arduino Pro Micro (ATmega32u4) clone,1,6.00,6.00,USB gamepad controller; 14 digital pins covers all 14 buttons
-5-inch 800x480 IPS HDMI screen with speaker,1,35.00,35.00,Generic equivalent of Elecrow RC050S; check fit in case
-3.7V LiPo battery 3000mAh (max 56x66x10mm),1,7.00,7.00,Replaces PiSugar 5000mAh; runtime will be shorter
-USB-C 5V charge and boost module (IP5306 type),1,3.00,3.00,Replaces PiSugar UPS; wire output to Pi 5V pin
-Soft tactile 8mm push buttons,10,0.30,3.00,"D-pad, ABXY, Start, Select"
-90-degree angled tactile push buttons,4,0.50,2.00,Shoulders and triggers
-MicroSD card 32GB,1,6.00,6.00,RetroPie storage
-Male-to-female jumper wires (pack),1,2.50,2.50,Prototyping
-40-pin female GPIO header (2x20),1,1.50,1.50,Only if using Pi header; optional
-M2.5 screw and standoff kit,1,5.00,5.00,Covers 10/16/20mm screws and 10mm spacers
-Small heatsink,1,1.50,1.50,Passive cooling
+Part,Quantity,Unit Price (USD),Line Total (USD),Unit Price (INR),Line Total (INR),Status,Notes
+Official Raspberry Pi 3 Model B+,1,48.69,48.69,4699,4699,In cart (Robu),Same footprint as Pi 4; has full-size HDMI
+Pro Micro Type-C (ATmega32U4) microcontroller board,1,5.59,5.59,539,539,In cart (Robu),USB gamepad controller; confirm ATmega32U4 and 5V/16MHz on listing
+5 inch 800x480 HDMI touch screen for Raspberry Pi,1,25.17,25.17,2429,2429,In cart (Robu),No speaker; power from micro-USB; check case fit
+Type-C USB 5V 2A step-up boost converter with charger (IP5306 type),1,0.66,0.66,64,64,In cart (Robu),May brown out under heavy load on Pi 3B+; confirm 4.2V cell version
+4-Pins DIP momentary tactile switch 6x6x8mm (pack of 10),2,0.34,0.68,33,66,In cart (Robocraze),"D-pad, ABXY, Start, Select + spares; check frame hole size first"
+Witty Fox 3.7V 3200mAh Li-Ion battery,1,3.98,3.98,384,384,In cart (Robocraze),Likely too thick for case (max 56x66x10mm); verify dimensions before ordering
+Professional 24-in-1 screwdriver tool kit,1,2.60,2.60,251,251,In cart (Robocraze),Tool; useful for small screws
+PS2 joystick module breakout sensor,1,0.48,0.48,46,46,In cart (Robocraze),Not used in Grizzly build; not the right shape for Kodiak sticks
+Tactile 4-pin push button switch 12x12x7.3mm (pack of 5),1,0.58,0.58,56,56,In cart (Robocraze),
+6V N20 600 RPM miniature gear motor,1,2.26,2.26,218,218,In cart (Robocraze),
+Flexible LED filament 24V 1200mm green,1,14.57,14.57,1406,1406,In cart (Robocraze),
+Breadboard 400 tie points,1,0.40,0.40,39,39,Optional (Robocraze),Prototyping only
+Pin headers for Pro Micro,1,0.31,0.31,30,30,Optional (estimate),Only if the Pro Micro arrives unsoldered
+PAM8403 amplifier module and 8 ohm speaker,1,1.24,1.24,120,120,Optional (estimate),Screen has no speaker
