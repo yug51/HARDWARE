@@ -21,12 +21,11 @@
 | Soft tactile 8mm push buttons | D-pad, ABXY, Start, Select | 10 | $0.30 | $3.00 | — |
 | 90-degree angled tactile push buttons | Shoulders and triggers | 4 | $0.50 | $2.00 | — |
 | MicroSD card 32GB | RetroPie storage | 1 | $6.00 | $6.00 | — |
-| Male-to-female jumper wires (pack) | Prototyping | 1 | $2.50 | $2.50 | — |
 | 40-pin female GPIO header (2x20) | Only if using Pi header; optional | 1 | $1.50 | $1.50 | — |
 | M2.5 screw and standoff kit | Covers 10/16/20mm screws and 10mm spacers | 1 | $5.00 | $5.00 | — |
 | Small heatsink | Passive cooling | 1 | $1.50 | $1.50 | — |
-| **Parts subtotal** | — | — | — | **$96.50** | — |
+| **Parts subtotal** | — | — | — | **$94.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$96.50** | — |
+| **Total** | — | — | — | **$94.00** | — |
 
-$3.50 left of the tier's funding.
+$6.00 left of the tier's funding.
