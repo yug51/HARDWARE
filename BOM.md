@@ -23,10 +23,9 @@
 | Tactile 4-pin push button switch 12x12x7.3mm (pack of 5) | — | 1 | $0.58 | $0.58 | — |
 | 6V N20 600 RPM miniature gear motor | — | 1 | $2.26 | $2.26 | — |
 | Flexible LED filament 24V 1200mm green | — | 1 | $14.57 | $14.57 | — |
-| Breadboard 400 tie points | Prototyping only | 1 | $0.40 | $0.40 | — |
 | Pin headers for Pro Micro | Only if the Pro Micro arrives unsoldered | 1 | $0.31 | $0.31 | — |
-| **Parts subtotal** | — | — | — | **$105.97** | — |
+| **Parts subtotal** | — | — | — | **$105.57** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$105.97** | — |
+| **Total** | — | — | — | **$105.57** | — |
 
-**$5.97 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$5.57 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
