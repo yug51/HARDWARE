@@ -1,3 +1,5 @@
+<img width="877" height="562" alt="Screenshot 2026-10-17 194641" src="https://github.com/user-attachments/assets/0684d5d8-33a4-4cf9-9129-0208ace38493" />
+<img width="1462" height="818" alt="Screenshot 2026-10-17 194647" src="https://github.com/user-attachments/assets/deae8930-440b-45e8-a5df-8320963f29ff" />
 # DIY Handheld Game Console
 
 ## Overview
